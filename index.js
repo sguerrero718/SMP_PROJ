@@ -3,7 +3,6 @@
 // hello world node app
 // 
 // *************************************
-
 // to run, open the cmd line and type
 // node index.js
 var http = require("http");
