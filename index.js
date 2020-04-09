@@ -2,7 +2,6 @@
 // author: Sergio Guerrero
 // hello world node app
 // 
-//  true commit from the VS tool 
 // *************************************
 
 // to run, open the cmd line and type
