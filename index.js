@@ -2,10 +2,10 @@
 // author: Sergio Guerrero
 // hello world node app
 // 
+// new comment and commit from VS
 // *************************************
 // to run, open the cmd line and type
 // node index.js
-
 var http = require("http");
 
 http.createServer(function (request, response) {   
